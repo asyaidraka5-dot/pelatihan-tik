@@ -1,5 +1,5 @@
 body {
-  background-colur: #FFFE0; /* Warna Kuning cerah */
+  background-colur:#00FFFF;
 font-family: Arial< sans-serif; /* Jenis huruf yang bersih dan mudah di baca*/
   color:#191970; /*warna teks utama (Biru Gelab) */
 }
@@ -10,7 +10,7 @@ font-family: Arial< sans-serif; /* Jenis huruf yang bersih dan mudah di baca*/
   padding:20px;
   background-color: white;
   border-radius:15px; /*Membuat sudut menjadi melengkung */
-  box-shadow: 0 4px 8px rgba(0,0,0,0,1);
+  box-shadow: 0 4px 8px rgba(0,255,255);
 }
 
 .kartu-profil img {
